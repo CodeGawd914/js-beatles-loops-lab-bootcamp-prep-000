@@ -17,6 +17,4 @@ return array
 function iLoveTheBeatles(number){
   var array = []
 do {array.push(`I love the Beatles!`)}
-while ([number]<15)
-return array
-}
+while (number<15)
