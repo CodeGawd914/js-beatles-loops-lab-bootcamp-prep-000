@@ -9,9 +9,9 @@ function johnLennonFacts(facts){
   var i = 0
   var array =[]
   while (i<facts.length){i++
-    array.push(`$[facts])
+    array.push(`${facts} !!!`)
 }
-return fact
+return array
 }
 function iLoveTheBeatles(number){
   var array = []
