@@ -7,10 +7,11 @@ function theBeatlesPlay(musicians,instruments){
 }
 function johnLennonFacts(facts){
   var i = 0
+  var array =[]
   while (i<facts.length){i++
-    facts.push('!!!')
+    array.push(`$[facts])
 }
-return facts
+return fact
 }
 function iLoveTheBeatles(number){
   var array = []
